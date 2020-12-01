@@ -22,3 +22,6 @@ Running:
      
      
 more info on moxies github
+
+# warning
+ssl stripping is prohibited, only try this on your own machines and networks.
