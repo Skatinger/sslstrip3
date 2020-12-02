@@ -26,3 +26,5 @@ more info on moxies github
 
 # info
 dont forget to remove the iptables config afterwards
+# warning
+ssl stripping is prohibited, only try this on your own machines and networks.
